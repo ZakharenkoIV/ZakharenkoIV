@@ -51,6 +51,7 @@ Here are some ideas to get you started:
 ![JDBC](https://img.shields.io/badge/-JDBC-yellowgreen?style=plastic)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%3E%3D%209-yellowgreen?style=plastic)
 ![SQL](https://img.shields.io/badge/-SQL-yellowgreen?style=plastic)
+![Liquibase](https://img.shields.io/badge/-Liquibase-yellowgreen?style=plastic)
 
 > ![Servlet](https://img.shields.io/badge/Servlet-%3E%3D4.0-lightgrey?style=plastic)
 ![JSP](https://img.shields.io/badge/-JSP-lightgrey?style=plastic)
