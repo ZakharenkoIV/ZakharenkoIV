@@ -25,6 +25,16 @@ Here are some ideas to get you started:
 * Закончил java курсы [Job4j](https://job4j.ru/) :mortar_board:
 * г. Москва :house:
 
+<a href="mailto:zaharenkoiv93@gmail.com">
+  <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
+<a href="https://www.linkedin.com/in/zakharenkoiv/">
+  <img align="left" alt="LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://t.me/varan39rus">
+  <img align="left" alt="Abhishek's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a><br>
+
 -------------------------------------------------------------------------
 <b>:computer:Технологии, библиотеки и фреймворки:</b>
 
@@ -82,10 +92,6 @@ Here are some ideas to get you started:
 
 -------------------------------------------------------------------------
 
-#### Учебные проекты:
-##### Теория:
-1. ["Вопрос/ответ" (interview Java developer)](https://github.com/ZakharenkoIV/java-interview)
-
 ##### Проекты:
 1. ["Конвертер URL" ()](https://github.com/ZakharenkoIV/)
 2. ["Форум" (Spring boot)](https://github.com/ZakharenkoIV/job4j_forum) --- [Сайт](https://aqueous-refuge-11201.herokuapp.com/)
@@ -102,6 +108,3 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZakharenkoIV&layout=compact)](https://github.com/ZakharenkoIV/github-readme-stats)
 ![Github stats](https://github-readme-stats.vercel.app/api?username=ZakharenkoIV&hide=stars,prs,issues,contribs) 
 
-#### Мои контакты:
-Mail - zaharenkoiv93@gmail.com  
-Соц. сети - [LinkedIn](https://www.linkedin.com/in/zakharenkoiv/)
