@@ -93,7 +93,7 @@ Here are some ideas to get you started:
 -------------------------------------------------------------------------
 
 ##### Проекты:
-1. ["Телеграм бот " ()](https://github.com/ZakharenkoIV/Job-bot)
+1. ["Телеграм бот - мониторинг вакансий" (telegrambots, liquibase, postgresql, spring boot)](https://github.com/ZakharenkoIV/Job-bot)
 2. ["Конвертер URL" ()](https://github.com/ZakharenkoIV/)
 3. ["Форум" (Spring boot)](https://github.com/ZakharenkoIV/job4j_forum) --- [Сайт](https://aqueous-refuge-11201.herokuapp.com/)
 4. ["Автонарушители" (Spring security)](https://github.com/ZakharenkoIV/job4j_car_accident)
